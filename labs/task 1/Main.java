@@ -1,6 +1,3 @@
-// Mostafa Omar Mahmoud 20170292 CS_IS_2
-// Ahmed Mohamed Hanafy 20170377 CS_IS_2 
-
 public class Main {
 
     private static int addOddArray(int arr[])
